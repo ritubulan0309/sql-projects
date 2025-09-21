@@ -24,4 +24,8 @@ Steps:
 **Highest Salary Employee**
 ![Top Salary](results/top_salary.png)
 
+## Example insights
+- IT contains highest paid staff.
+- Finance shows the widest salary range.
+
 Author: Ritu — aspiring analyst
