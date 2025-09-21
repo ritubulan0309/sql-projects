@@ -16,8 +16,12 @@ Steps:
 1. Run `employees.sql` to create table + data.
 2. Run queries from `queries.sql` and save screenshots or CSVs into `results/`.
 
-## Example insights
-- IT contains highest paid staff.
-- Finance shows the widest salary range.
+## Example Results
+
+**Average Salary by Department**
+![Average Salary](results/avg_by_department.png)
+
+**Highest Salary Employee**
+![Top Salary](results/top_salary.png)
 
 Author: Ritu — aspiring analyst
